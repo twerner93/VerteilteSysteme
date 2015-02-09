@@ -1,1 +1,1 @@
-Chat für verteilte System
+Chat fŸr verteilte Systeme
