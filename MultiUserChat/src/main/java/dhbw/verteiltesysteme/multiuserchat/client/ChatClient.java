@@ -1,4 +1,4 @@
-package server;
+package dhbw.verteiltesysteme.multiuserchat.client;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
